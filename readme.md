@@ -35,3 +35,6 @@ curl -X POST -H 'Accept: application/json' -H 'Authorization: Bearer ACCESS-TOKE
 
 # Clone the server side codebase - git@github.com:here-aditya/crickmatch.git
 The server should be running & codebase should be accessible via -  http://127.0.0.1:8000
+
+
+# A Database dump file added to database/migrations/crickmatch.sql for full databse import without running migration or seed.
